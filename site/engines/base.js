@@ -13,7 +13,23 @@ var default_languages = {
 	'FR': 'fr',
 	'IT': 'it',
 	'ES': 'es'
+	'SV': 'se'
 }
+
+
+/*	DUCKDUCKGO
+	----------------------------------------------------- */
+
+eng.ddg = {
+	pageTitle: "Duckduckgo",
+	logo: "ddg-white.png",
+	places: {
+		'Web'    : ["http://www.duckduckgo.com/?q=%query%", false],
+		'Images' : ["http://www.duckduckgo.com/?q=%query% !i", false],
+		'Maps'   : ["http://www.duckduckgo.com/?q=%query% !m", false],
+		'News'   : ["http://www.duckduckgo.com/?q=%query% !n", false]
+	},
+};
 
 /*	GOOGLE
 	----------------------------------------------------- */
