@@ -22,7 +22,7 @@ var default_languages = {
 
 eng.ddg = {
 	pageTitle: "Duckduckgo",
-	logo: "ddg.png",
+	logo: "ddg-white.png",
 	places: {
 		'Web'    : ["http://www.duckduckgo.com/?q=%query%", false],
 		'Images' : ["http://www.duckduckgo.com/?q=%query% !i", false],
