@@ -12,7 +12,7 @@ var default_languages = {
 	'DE': 'de',
 	'FR': 'fr',
 	'IT': 'it',
-	'ES': 'es'
+	'ES': 'es',
 	'SV': 'se'
 }
 
